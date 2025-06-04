@@ -230,7 +230,7 @@ sections:
     type: DividerSection
   - title:
       text: Grandes Paredes Chile
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
