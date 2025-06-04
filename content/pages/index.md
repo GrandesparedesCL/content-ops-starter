@@ -242,7 +242,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
+      title: Guía de Escalada Grandes Paredes Chile
       url: 'https://www.youtube.com/watch?v=3lfdAVVZ5EM'
       controls: false
       aspectRatio: '16:9'
