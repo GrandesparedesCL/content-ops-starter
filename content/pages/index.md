@@ -235,7 +235,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: ''
     media:
       title: Guía de Escalada Grandes Paredes Chile
